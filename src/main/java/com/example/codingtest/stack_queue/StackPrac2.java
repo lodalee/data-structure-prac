@@ -32,4 +32,11 @@ public class StackPrac2 {
         }
         return stack.pop();
     }
+
+    public static void main(String[] args) {
+        StackPrac2 stackPrac2 = new StackPrac2();
+
+        String expression = "1 2 + 3 4 * +";
+        System.out.println(stackPrac2.calculate(expression)); // 15
+    }
 }

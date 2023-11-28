@@ -4,10 +4,30 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c97debbc-be9a-444b-911a-7c32fc9c43c3" name="변경" comment="제네릭 타입의 Stack 구현과 괄호의 짝검사">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/codingtest/stack_queue/StackPrac2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/codingtest/stack_queue/StackPrac3.java" afterDir="false" />
+    <list default="true" id="c97debbc-be9a-444b-911a-7c32fc9c43c3" name="변경" comment="Stack - 숫자 역순 출력&#10;Queue - 구현과 요세푸스 , 프린터 큐">
+      <change afterPath="$PROJECT_DIR$/.gradle/8.4/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/8.4/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/8.4/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/example/codingtest/stack_queue/Stack$Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/codingtest/string/Solution2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/codingtest/string/Solution3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.4/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.4/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.4/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.4/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/example/codingtest/stack_queue/Queue.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/example/codingtest/stack_queue/Queue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/example/codingtest/stack_queue/QueuePrac.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/example/codingtest/stack_queue/QueuePrac.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/example/codingtest/stack_queue/QueuePrac2.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/example/codingtest/stack_queue/QueuePrac2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/example/codingtest/stack_queue/StackPrac2.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/example/codingtest/stack_queue/StackPrac2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/LinkedListPrac$Main.class.uniqueId0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/LinkedListPrac$Node.class.uniqueId2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/LinkedListPrac.class.uniqueId1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/codingtest/stack_queue/StackPrac2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/codingtest/stack_queue/StackPrac2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,6 +38,23 @@
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="codingTest" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -38,20 +75,48 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Workspace/자료구조",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Workspace/자료구조&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;feb8c7a15b87123023e62ba172251836&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager">
+}</component>
+  <component name="RunManager" selected="애플리케이션.StackPrac2">
+    <configuration name="StackPrac2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.codingtest.stack_queue.StackPrac2" />
+      <module name="codingTest.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.codingtest.stack_queue.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StackPrac4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.codingtest.stack_queue.StackPrac4" />
+      <module name="codingTest.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.codingtest.stack_queue.Queue" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CodingTestApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <module name="codingTest.main" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.codingtest.CodingTestApplication" />
@@ -59,6 +124,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="애플리케이션.StackPrac2" />
+        <item itemvalue="애플리케이션.StackPrac4" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -68,7 +139,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1701058964863</updated>
-      <workItem from="1701058966989" duration="3307000" />
+      <workItem from="1701058966989" duration="9792000" />
+      <workItem from="1701081914817" duration="5216000" />
+      <workItem from="1701171657196" duration="2829000" />
     </task>
     <task id="LOCAL-00001" summary="git init">
       <option name="closed" value="true" />
@@ -94,7 +167,31 @@
       <option name="project" value="LOCAL" />
       <updated>1701060902540</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Stack - 후위 표기식 계산 , 문자 역순 출력">
+      <option name="closed" value="true" />
+      <created>1701062655670</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1701062655670</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Stack - 숫자 역순 출력&#10;Queue - 구현과 요세푸스 , 프린터 큐">
+      <option name="closed" value="true" />
+      <created>1701066396757</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1701066396757</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Stack - 숫자 역순 출력&#10;Queue - 구현과 요세푸스 , 프린터 큐">
+      <option name="closed" value="true" />
+      <created>1701066487974</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1701066487974</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -114,6 +211,23 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="git init" />
     <MESSAGE value="제네릭 타입의 Stack 구현과 괄호의 짝검사" />
-    <option name="LAST_COMMIT_MESSAGE" value="제네릭 타입의 Stack 구현과 괄호의 짝검사" />
+    <MESSAGE value="Stack - 후위 표기식 계산 , 문자 역순 출력" />
+    <MESSAGE value="Stack - 숫자 역순 출력&#10;Queue - 구현과 요세푸스 , 프린터 큐" />
+    <option name="LAST_COMMIT_MESSAGE" value="Stack - 숫자 역순 출력&#10;Queue - 구현과 요세푸스 , 프린터 큐" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/codingtest/stack_queue/StackPrac2.java</url>
+          <line>35</line>
+          <properties class="com.example.codingtest.stack_queue.StackPrac2" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
