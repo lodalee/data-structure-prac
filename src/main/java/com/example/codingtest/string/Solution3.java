@@ -1,5 +1,7 @@
 package com.example.codingtest.string;
 
+//조건 문자열
+
 public class Solution3 {
     public int solution(String ineq, String eq, int n, int m) {
         int answer = 0;
