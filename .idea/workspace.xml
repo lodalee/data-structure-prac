@@ -4,30 +4,27 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c97debbc-be9a-444b-911a-7c32fc9c43c3" name="변경" comment="Stack - 숫자 역순 출력&#10;Queue - 구현과 요세푸스 , 프린터 큐">
-      <change afterPath="$PROJECT_DIR$/.gradle/8.4/executionHistory/executionHistory.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/8.4/fileHashes/fileHashes.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/8.4/fileHashes/resourceHashesCache.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/example/codingtest/stack_queue/Stack$Node.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/codingtest/string/Solution2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/codingtest/string/Solution3.java" afterDir="false" />
+    <list default="true" id="c97debbc-be9a-444b-911a-7c32fc9c43c3" name="변경" comment="문자열 관련 알고리즘 문제 레벨0">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/codingtest/algorithm/Queue_Stack_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/codingtest/algorithm/Queue_Stack_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/codingtest/algorithm/prac1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/codingtest/algorithm/prac2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/codingtest/algorithm/prac3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/codingtest/algorithm/prac4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/codingtest/algorithm/prac5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/codingtest/algorithm/prac6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/codingtest/algorithm/prac7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.4/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.4/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/8.4/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.4/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.4/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.4/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/8.4/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.4/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.4/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.4/fileHashes/resourceHashesCache.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/example/codingtest/stack_queue/Queue.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/example/codingtest/stack_queue/Queue.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/example/codingtest/stack_queue/QueuePrac.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/example/codingtest/stack_queue/QueuePrac.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/example/codingtest/stack_queue/QueuePrac2.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/example/codingtest/stack_queue/QueuePrac2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/example/codingtest/stack_queue/StackPrac2.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/example/codingtest/stack_queue/StackPrac2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/LinkedListPrac$Main.class.uniqueId0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/LinkedListPrac$Node.class.uniqueId2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/LinkedListPrac.class.uniqueId1" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/codingtest/stack_queue/StackPrac2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/codingtest/stack_queue/StackPrac2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/codingtest/stack_queue/Queue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/codingtest/stack_queue/Queue.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,7 +87,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="애플리케이션.StackPrac2">
+  <component name="RunManager">
     <configuration name="StackPrac2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.codingtest.stack_queue.StackPrac2" />
       <module name="codingTest.main" />
@@ -141,7 +138,10 @@
       <updated>1701058964863</updated>
       <workItem from="1701058966989" duration="9792000" />
       <workItem from="1701081914817" duration="5216000" />
-      <workItem from="1701171657196" duration="2829000" />
+      <workItem from="1701171657196" duration="4881000" />
+      <workItem from="1701255225690" duration="2010000" />
+      <workItem from="1701331171798" duration="602000" />
+      <workItem from="1701347647375" duration="11234000" />
     </task>
     <task id="LOCAL-00001" summary="git init">
       <option name="closed" value="true" />
@@ -191,7 +191,23 @@
       <option name="project" value="LOCAL" />
       <updated>1701066487974</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="문자열 관련 알고리즘 문제 레벨0">
+      <option name="closed" value="true" />
+      <created>1701177029972</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1701177029972</updated>
+    </task>
+    <task id="LOCAL-00008" summary="문자열 관련 알고리즘 문제 레벨0">
+      <option name="closed" value="true" />
+      <created>1701177110877</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1701177110877</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -213,7 +229,8 @@
     <MESSAGE value="제네릭 타입의 Stack 구현과 괄호의 짝검사" />
     <MESSAGE value="Stack - 후위 표기식 계산 , 문자 역순 출력" />
     <MESSAGE value="Stack - 숫자 역순 출력&#10;Queue - 구현과 요세푸스 , 프린터 큐" />
-    <option name="LAST_COMMIT_MESSAGE" value="Stack - 숫자 역순 출력&#10;Queue - 구현과 요세푸스 , 프린터 큐" />
+    <MESSAGE value="문자열 관련 알고리즘 문제 레벨0" />
+    <option name="LAST_COMMIT_MESSAGE" value="문자열 관련 알고리즘 문제 레벨0" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
